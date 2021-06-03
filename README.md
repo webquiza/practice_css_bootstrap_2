@@ -24,7 +24,7 @@ _{This is a detailed description of your application. Give as much detail as nee
 * _Navigate to the directory, such as your Desktop, where you want the cloned directory._
 * _Type `git clone` and paste the URL you copied._
 * _Press Enter._
-* _Navigate to the project folder on your computer and open the `index.html` file to view the webpage.
+* _Navigate to the project folder on your computer and open the `index.html` file to view the webpage._
 * _Alternatively, you can view the live webpage via this [GitHub Page](https://webquiza.github.io/practice_css_bootstrap_2/)._
 
 ## Known Bugs
