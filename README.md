@@ -21,7 +21,7 @@ _{This is a detailed description of your application. Give as much detail as nee
 [![Clone button](img/clone.png)](#)
 
 * _Open your terminal._
-* _Navigate to the directory, such as your Desktop, where you want the cloned directory._
+* _Navigate to the directory (such as your Desktop) where you want the cloned directory._
 * _Type `git clone` and paste the URL you copied._
 * _Press Enter._
 * _Navigate to the project folder on your computer and open the `index.html` file to view the webpage._
